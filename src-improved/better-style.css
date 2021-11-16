@@ -197,3 +197,12 @@ footer{
     padding: 12px;
     width: 90%;
 }
+
+.fa{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+.fa:hover{
+    opacity: 75%
+}
